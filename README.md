@@ -8,7 +8,7 @@ In this paper, we look into mathematical foundations for depth-wise separable co
 The experiment results show that MobileNet achieves considerate accuracy in image classification tasks comparing to other neural networks with greater parameters, which justify its ability of maintaining good performance on mobile devices with less computational resource and less energy consumption.
 
 ## Team 
-This is a project of 4 members.
+This is a course project (EECS6699 Mathematics for Deep Learning at Columbia University, 2022 Spring) of 4 members.
 ##### Xin Huang xh2510@columbia.edu
 ##### Qimeng Tao qt2139@columbia.edu
 ##### Andreas Knaupp andreas.knaupp@columbia.edu 
